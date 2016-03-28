@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bahamas | Flags</title>
+    <style>
+      #bahamas{
+        position: relative;
+        width: 125px;
+        height: 25px;
+        border-top: 25px solid rgb(107, 202, 226);
+        border-bottom: 25px solid rgb(107, 202, 226);
+        background-color: rgb(255,255,0);
+      }
+      #bahamas:after{
+        content: '';
+        position: absolute;
+        width: 0;
+        height: 0;
+        left: 0;
+        top: -25px;
+        border-top: 37px solid transparent;
+        border-bottom: 37px solid transparent;
+        border-left: 64px solid #000000;
+        -moz-transform: scale(0.999);
+        -webkit-backface-visibility: hidden;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="bahamas"></div>
+  </body>
+</html>
