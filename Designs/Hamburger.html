@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hamburger | Designs</title>
+    <style>
+      #hamburger{
+        position: relative;
+        height: 70px;
+        width: 70px;
+        margin: 0 auto;
+        margin-top: 25%;
+        border-radius: 50%;
+        background-color: rgb(0,255,255);
+      }
+
+      #hamburger:before{
+        content: "";
+        position: absolute;
+        top: 34%;
+        left: 30%;
+        width: 40%;
+        height: 25%;
+        border-top: 4px solid #FFF;
+        border-bottom: 4px solid #FFF;
+      }
+      #hamburger:after{
+        content: "";
+        position: absolute;
+        top: 50%;
+        left: 30%;
+        width: 40%;
+        height: 25%;
+        border-top: 4px solid #FFF;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="hamburger"></div>
+  </body>
+</html>
