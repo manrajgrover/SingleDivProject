@@ -1,0 +1,39 @@
+<html>
+  <head>
+    <title>Awesome Dots | Loaders</title>
+    <style>
+      #simple-text-loading{
+        width: 200px;
+        height: auto;
+        margin: 0 auto;
+        margin-top: 25%;
+        position: relative;
+        font-size: 25px;
+        font-family: 'Arial';
+      }
+
+      #simple-text-loading:after{
+        content: "Loading";
+        animation: load 3s linear infinite;
+      }
+
+      @keyframes load{
+        0%{
+          content: "Loading";
+        }
+        25%{
+          content: "Loading.";
+        }
+        50%{
+          content: "Loading..";
+        }
+        75%{
+          content: "Loading...";
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="simple-text-loading"></div>
+  </body>
+</html>
