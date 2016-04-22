@@ -1,0 +1,55 @@
+<html>
+  <head>
+    <title>Fill up | Loaders</title>
+    <style>
+      body{
+        background-color: #eeeeee;
+      }
+
+      #fill-up{
+        width: 100px;
+        height:100px;
+        border: 5px solid #68DEA8;
+        border-radius: 100px;
+        margin: 0 auto;
+        position:relative;
+        margin-top:25%;
+        overflow: hidden;
+      }
+
+      #fill-up::before{
+        content: '';
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        top: 150px;
+        background-color: #68DEA8;
+        animation: fill 5s ease 0s alternate infinite;
+      }
+
+      #fill-up::after{
+        content:'Loading';
+        position: absolute;
+        width: 100px;
+        height:100px;
+        padding-top:50%;
+        border: 5px solid #ffffff;
+        border-radius: 50%;
+        box-sizing:border-box;
+        padding: 36px 17px;
+        color: #fff;
+        font-family: sans-serif;
+        font-size: 16px;
+      }
+
+      @keyframes fill{
+        100%{
+          top: 0px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="fill-up"></div>
+  </body>
+</html>
