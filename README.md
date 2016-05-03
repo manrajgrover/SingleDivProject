@@ -35,5 +35,10 @@ One `<div>`. Many possibilities.
 | :---: | :---: | :---: |
 | [Hamburger Menu](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Hamburger.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Hamburger Menu](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Hamburger.png) |
 
+### Fun
+| Project Name | Your Name / Github Handle | Demo/Gif |
+| :---: | :---: | :---: |
+| [Cat Slideshow](https://github.com/ManrajGrover/SingleDivProject/blob/master/Fun/CatSlideshow.html) | [CharlesPonti](https://github.com/charlesponti) | ![Hamburger Menu](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/CatSlideshow.png) |
+
 ## License
 [MIT](https://github.com/ManrajGrover/SingleDivProject/blob/master/LICENSE).
