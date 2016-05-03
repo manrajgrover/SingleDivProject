@@ -38,7 +38,7 @@ One `<div>`. Many possibilities.
 ### Fun
 | Project Name | Your Name / Github Handle | Demo/Gif |
 | :---: | :---: | :---: |
-| [Cat Slideshow](https://github.com/ManrajGrover/SingleDivProject/blob/master/Fun/CatSlideshow.html) | [CharlesPonti](https://github.com/charlesponti) | ![Hamburger Menu](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/CatSlideshow.png) |
+| [Cat Slideshow](https://github.com/ManrajGrover/SingleDivProject/blob/master/Fun/CatSlideshow.html) | [CharlesPonti](https://github.com/charlesponti) | ![CatSlideshow](https://github.com/charlesponti/SingleDivProject/blob/master/Assets/CatSlideshow.png) |
 
 ## License
 [MIT](https://github.com/ManrajGrover/SingleDivProject/blob/master/LICENSE).
