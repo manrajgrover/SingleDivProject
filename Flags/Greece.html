@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Greece | Flags</title>
+    <style>
+      #greece {
+        width: 108px;
+        /* Deliberately chosen as cleanly divisible by 9 for pixel-sharp crispness. :) */
+        height: 72px;
+        background: repeating-linear-gradient(180deg, 
+            rgb(13, 94, 175), rgb(13, 94, 175) 8px, 
+            white 8px, white 16px);
+        box-shadow: 0px 0px 15px 2px #e5e5e5;
+        position: relative;
+      }
+      #greece::before, #greece::after {
+        content: "";
+        position: absolute;
+        display: block;
+        top: 0;
+        left: 0;
+        width: 40px;
+        height: 40px;
+        background-color: white;
+        box-sizing: border-box;
+      }
+      #greece::before {
+        border-top: 16px solid rgb(13, 94, 175);
+        border-bottom: 16px solid rgb(13, 94, 175);
+      }
+      #greece::after {
+        width: 8px;
+        left: 16px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="greece"></div>
+  </body>
+</html>
