@@ -1,4 +1,4 @@
-# Contributions Guideline[DRAFT]
+# Contribution Guidelines
 
 1. Please contribute what you code and not someone else's.
 2. Only use of 1 div tag is allowed.
