@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>United States of America | Flags</title>
+    <meta charset="utf-8"/>
+    <style>
+      body {
+        padding: 20px;
+      }
+      #usa {
+        width: 1235px;
+        height: 650px;
+        background: repeating-linear-gradient(180deg, 
+            #C1133D, #C1133D 50px, 
+            white 50px, white 100px);
+        box-shadow: 10px 10px 15px 0px #bbbbbb;
+        position: relative;
+      }
+      #usa::before, #usa::after {
+        position: absolute;
+        display: block;
+        top: 0;
+        left: 0;
+        width: 494px;
+        height: 350px;
+        box-sizing: border-box;
+        color: white;
+      }
+      #usa::before {
+        content: "";
+        background-color: #002663;
+      }
+      #usa::after {
+        /*
+           Unicode, not magic. Stars are separated by a no-break space (U+00A0) to 
+           prevent the sets of six and five stars from being split up over lines. 
+           Regular spaces indicate where line breaks should occur.
+
+           The star is U+2605 BLACK STAR, so this approach is almost cheating.
+         */
+        content: "★   ★   ★   ★   ★   ★ ★   ★   ★   ★   ★ ★   ★   ★   ★   ★   ★ ★   ★   ★   ★   ★ ★   ★   ★   ★   ★   ★ ★   ★   ★   ★   ★ ★   ★   ★   ★   ★   ★ ★   ★   ★   ★   ★ ★   ★   ★   ★   ★   ★ ★   ★   ★   ★   ★ ★   ★   ★   ★   ★   ★";
+        font-size: 48px;
+        font-family: 'DejaVu Sans', sans-serif;
+        line-height: 61%;
+        text-align: center;
+        word-wrap: normal;
+        padding-top: 11px;
+        height: 650px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="usa"></div>
+  </body>
+</html>

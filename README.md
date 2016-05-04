@@ -30,6 +30,7 @@ One `<div>`. Many possibilities.
 | [Italy](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Italy.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Italy](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Italy.png) |
 | [Japan](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Japan.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Japan](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Japan.png) |
 | [The Netherlands](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Netherlands.html) | [jdhoek](https://github.com/jdhoek) | ![The Netherlands](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Netherlands.png) |
+| [United States of America](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/USA.html) | [jdhoek](https://github.com/jdhoek) | ![United States of America](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/USA.png) |
 
 
 ### Designs
