@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>United Kingdom | Flags</title>
+    <style>
+      #uk {
+        width: 144px;
+        height: 72px;
+        background-color: #003399;
+        /*
+            Without ::before and ::after the flag is almost correct, but it
+            doesn't alternate the position of the white St Andrew's Cross and
+            the red St Patrick's Cross.
+         */
+        background-image: 
+            linear-gradient(90deg, transparent, transparent 64.8px, 
+                #CC0000 64.8px, #CC0000 79.2px,
+                transparent 79.2px), 
+            linear-gradient(180deg, transparent, transparent 24px, 
+                white 24px, white 28.8px, 
+                #CC0000 28.8px, #CC0000 43.2px,
+                white 43.2px, white 48px,
+                transparent 48px),
+            linear-gradient(90deg, transparent, transparent 60px, 
+                white 60px, white 84px,
+                transparent 84px),
+            linear-gradient(26.6deg, transparent, transparent 57.2px, 
+                white 57.2px, white 64.6px,
+                #CC0000 64.4px, #CC0000 69.2px,
+                white 69.2px, white 71.6px,
+                transparent 71.6px),
+            linear-gradient(153.4deg, transparent, transparent 57.2px, 
+                white 57.2px, white 64.4px,
+                #CC0000 64.4px, #CC0000 69.2px,
+                white 69.2px, white 71.6px,
+                transparent 71.6px);
+                
+        box-shadow: 0px 0px 15px 2px #e5e5e5;
+        position: relative;
+      }
+      #uk::before, #uk::after {
+        content: "";
+        position: absolute;
+        display: block;
+        top: 0;
+        left: 0;
+        width: 60px;
+        height: 24px;
+      }
+      #uk::before {
+        /* Overlay the top-left quadrant with the correct order of the crosses. */
+        background-image:
+            linear-gradient(26.6deg, transparent, transparent 14.3px, 
+                white 14.3px, white 16.7px,
+                #CC0000 16.7px, #CC0000 21.5px,
+                white 21.5px, white 28.7px,
+                transparent 28.7px);
+      }
+      #uk::after {
+        /* Overlay the top-right quadrant with the correct order of the crosses. */
+        left: 84px;
+        background-image:
+            linear-gradient(153.4deg, transparent, transparent 19.6px, 
+                white 19.6px, white 22px,
+                #CC0000 22px, #CC0000 26.8px,
+                white 26.8px, white 34px,
+                transparent 34px);
+      }
+    </style>
+  </head>
+  <body>
+    <div id="uk"></div>
+  </body>
+</html>
