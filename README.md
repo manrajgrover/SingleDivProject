@@ -17,7 +17,7 @@ One `<div>`. Many possibilities.
 
 ### Flags
 
-| Project Name | Your Name / Github Handle | Demo/Gif |
+| Project Name | Your Name / Github Handle | Demo |
 | :---: | :---: | :---: |
 | [Armenia](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Armenia.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Armenia](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Armenia.png) |
 | [Austria](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Austria.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Austria](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Austria.png) |
