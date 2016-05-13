@@ -5,6 +5,11 @@ One `<div>`. Many possibilities.
 
 ## Demos
 
+### Designs
+| Project Name | Your Name / Github Handle | Demo/Gif |
+| :---: | :---: | :---: |
+| [Hamburger Menu](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Hamburger.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Hamburger Menu](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Hamburger.png) |
+
 ### Loaders
 
 | Project Name | Your Name / Github Handle | Demo/Gif |
@@ -34,12 +39,6 @@ One `<div>`. Many possibilities.
 | [The Netherlands](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Netherlands.html) | [jdhoek](https://github.com/jdhoek) | ![The Netherlands](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Netherlands.png) |
 | [United Kingdom](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/UK.html) | [jdhoek](https://github.com/jdhoek) | ![United Kingdom](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/UK.png) |
 | [United States of America](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/USA.html) | [jdhoek](https://github.com/jdhoek) | ![United States of America](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/USA.png) |
-
-
-### Designs
-| Project Name | Your Name / Github Handle | Demo/Gif |
-| :---: | :---: | :---: |
-| [Hamburger Menu](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Hamburger.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Hamburger Menu](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Hamburger.png) |
 
 ## License
 [MIT](https://github.com/ManrajGrover/SingleDivProject/blob/master/LICENSE).
