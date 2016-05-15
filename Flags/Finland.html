@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Finland | Flags</title>
+    <style>
+      #finland {
+        width: 150px;
+        height: 92px;
+        position: relative;
+      }
+
+      #finland::before, #finland::after {
+        content: "";
+        position: absolute;
+        display: block;
+        width: 150px;
+        height: 92px;
+        background-color: rgb(0, 53, 128);
+        box-sizing: border-box;
+      }
+
+      #finland::before {
+        border-top: 35px solid white;
+        border-bottom: 35px solid white;
+      }
+
+      #finland::after {
+        width: 22px;
+        left: 35px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="finland"></div>
+  </body>
+</html>

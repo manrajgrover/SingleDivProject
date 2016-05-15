@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Sweden | Flags</title>
+    <style>
+      #sweden {
+        width: 150px;
+        height: 94px;
+        position: relative;
+      }
+
+      #sweden::before, #sweden::after {
+        content: "";
+        position: absolute;
+        display: block;
+        width: 150px;
+        height: 94px;
+        background-color: rgb(254, 204, 0);
+        box-sizing: border-box;
+      }
+
+      #sweden::before {
+        border-top: 40px solid rgb(0, 106, 167);
+        border-bottom: 40px solid rgb(0, 106, 167);
+      }
+
+      #sweden::after {
+        width: 14px;
+        left: 40px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="sweden"></div>
+  </body>
+</html>
