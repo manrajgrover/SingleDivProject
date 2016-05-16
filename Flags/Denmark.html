@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Denmark | Flags</title>
+    <style>
+      #denmark {
+        width: 100px;
+        height: 80px;
+        position: relative;
+      }
+
+      #denmark::before, #denmark::after {
+        content: "";
+        position: absolute;
+        display: block;
+        width: 100px;
+        height: 80px;
+        background-color: white;
+        box-sizing: border-box;
+      }
+
+      #denmark::before {
+        border-top: 35px solid rgb(198,12,48);
+        border-bottom: 35px solid rgb(198,12,48);
+      }
+
+      #denmark::after {
+        width: 10px;
+        left: 35px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="denmark"></div>
+  </body>
+</html>
