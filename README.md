@@ -9,6 +9,7 @@ One `<div>`. Many possibilities.
 | Project Name | Your Name / Github Handle | Demo/Gif |
 | :---: | :---: | :---: |
 | [New Instagram Logo](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Instagram%20New%20Logo.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![New Instagram Logo](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/instagram.jpg) |
+| [Battery](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Battery.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Battery](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Battery.gif) |
 | [Hamburger Menu](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Hamburger.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Hamburger Menu](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Hamburger.png) |
 
 ### Loaders
