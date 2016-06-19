@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Canada | Flags</title>
+    <style>
+      #canada {
+        width: 150px;
+        height: 75px;
+        background: linear-gradient(90deg, #f00 25%, #fff 25%, #fff 75%, #f00 75%);
+        box-shadow: 0px 0px 15px 2px #e5e5e5;
+        position: relative;
+      }
+
+      #canada::before {
+        content: "\1F341";  /* Unicode MAPLE LEAF */
+        position: absolute;
+        top: 0;
+        right: 0;
+        left: 0;
+        text-align: center;
+        font-size: 50px;
+        line-height: 75px;
+
+        /* Make it red, since the maple leaf emoji gets coloured gold by default */
+        -webkit-filter: hue-rotate(301.5deg) saturate(10);
+        filter: hue-rotate(301.5deg) saturate(10);
+      }
+    </style>
+  </head>
+  <body>
+    <div id="canada"></div>
+  </body>
+</html>
