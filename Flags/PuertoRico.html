@@ -15,8 +15,8 @@
             box-shadow: 10px 10px 15px 0px #bbbbbb;
             position: relative;
         }
-
-            #pr::after {
+        
+         #pr::after {
                 /*
            Unicode, not magic. Stars are separated by a no-break space (U+00A0) to
            prevent the sets of six and five stars from being split up over lines.
@@ -24,25 +24,22 @@
 
            The star is U+2605 BLACK STAR, so this approach is almost cheating.
          */
+                position: absolute;
                 content: "★";
                 font-size: 400px;
                 font-family: 'DejaVu Sans', sans-serif;
-                line-height: 61%;
+                line-height: 1%;
                 text-align: left;
                 word-wrap: normal;
                 padding-top: 11px;
                 height: 650px;
                 color: white;
-            }
-
-            #pr:after {
-                position: absolute;
                 width: 0;
-                height: 0;
+                height:0px;
                 left: 0;
                 top: 0px;
-                border-top: 325px solid transparent;
-                border-bottom: 325px solid transparent;
+                border-top: 320px solid transparent;
+                border-bottom: 320px solid transparent;
                 border-left: 425px solid #002663;
                 -moz-transform: scale(0.999);
                 -webkit-backface-visibility: hidden;
