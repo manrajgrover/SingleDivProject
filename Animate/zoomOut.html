@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> zoomOut | Animate</title>
+    <style>
+        #zoomOut {
+            width: 100px;
+            height: 80px;
+            position: relative;
+            color: grey;
+            animation: zoomOut 2s;
+            -webkit-animation-iteration-count: infinite;
+            animation-iteration-count: infinite;
+        }
+       
+        @keyframes zoomOut {
+            0% {
+                transform: scale(1.6);
+                opacity: 0.5;
+            }
+            50% {
+                transform: scale(1);
+                opacity: 1;
+            }
+            100% {
+                transform: scale(0.2);
+                opacity: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div id="zoomOut">Sample Text</div>
+</body>
+
+</html>
