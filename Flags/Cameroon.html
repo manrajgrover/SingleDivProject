@@ -4,35 +4,38 @@
     <title>Cameroon | Flags</title>
     <style>
       #cameroon {
-       position: relative;
-       width: 200px;
-       height: 400px;
-       background-color: #007A5E;
+        position: relative;
+        background-color: #007A5E;
+      }
+
+      #cameroon,
+      #cameroon::before,
+      #cameroon::after {
+        width: 200px;
+        height: 400px;
+      }
+
+      #cameroon::before,
+      #cameroon::after {
+        content: '';
+        position: absolute;
+        top: 0;
       }
 
       #cameroon::before {
-       content: '\2605';
-       position: absolute;
-       top: 0;
-       left: 100%;
-       display: flex;
-       align-items: center;
-       justify-content: center;
-       width: 200px;
-       height: 400px;
-       color: #FCD116;
-       font-size: 6.0em;
-       background-color: #CE1126;
+        content: '\2605';
+        left: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #FCD116;
+        font-size: 6.0em;
+        background-color: #CE1126;
       }
 
       #cameroon::after {
-       content: '';
-       position: absolute;
-       top: 0;
-       left: 200%;
-       width: 200px;
-       height: 400px;
-       background-color: #FCD116;
+        left: 200%;
+        background-color: #FCD116;
       }
     </style>
   </head>
