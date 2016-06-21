@@ -11,6 +11,7 @@ One `<div>`. Many possibilities.
 | [New Instagram Logo](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Instagram%20New%20Logo.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![New Instagram Logo](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/instagram.jpg) |
 | [Battery](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Battery.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Battery](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Battery.gif) |
 | [Hamburger Menu](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Hamburger.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Hamburger Menu](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Hamburger.png) |
+| [YouTube Logo](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/YouTube.html) | [KLVN](https://github.com/KLVN) | ![YouTube Logo](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/YouTube.png) |
 
 ### Loaders
 
