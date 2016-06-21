@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>People's Republic of China | Flags</title>
+    <meta charset="utf-8"/>
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      #china {
+        width: 180px;
+        height: 120px;
+        background: #DE2910;
+        position: relative;
+        transition: box-shadow ease-out 0.2s;
+        will-change: box-shadow;
+      }
+
+      #china:hover {
+        box-shadow: 0 6px 8px rgba(0, 0, 0, 0.1);
+      }
+
+      #china:before, #china:after {
+        position: absolute;
+        display: block;
+        top: 0;
+        left: 0;
+        box-sizing: border-box;
+        color: #FFDE00;
+      }
+
+      /*
+       * The proportion follows
+       * https://www.wikiwand.com/en/Flag_of_China#/Construction_details.2C_sizes_and_colours
+       * The flag is divided into 30x10 grids,
+       * which means each grid is 6px in this case (180px / 30)
+       */
+      #china:before {
+        content: "★";
+        width: 100%;
+        font-size: calc(6px * 6);
+        padding-top: calc(6px * 2);
+        padding-left: calc(6px * 2);
+      }
+      #china:after {
+        /*
+         * This is far from perfect, because I have no idea how to rotate the stars.
+         * Notice: there are 2 line breaks between star #2 and star #3
+         * Turn on Show Invisibles in you text editor to get a better look
+         */
+        content: "      ★               ★                 ★       ★     ";
+        font-size: calc(6px * 2);
+        font-family: 'DejaVu Sans', sans-serif;
+        line-height: 0.5;
+        text-align: center;
+        word-wrap: normal;
+        padding-top: calc(6px * 1);
+        padding-left: calc(6px * 9);
+        width: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="china"></div>
+  </body>
+</html>
