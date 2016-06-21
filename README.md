@@ -51,5 +51,12 @@ One `<div>`. Many possibilities.
 | [United Kingdom](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/UK.html) | [jdhoek](https://github.com/jdhoek) | ![United Kingdom](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/UK.png) |
 | [United States of America](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/USA.html) | [jdhoek](https://github.com/jdhoek) | ![United States of America](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/USA.png) |
 
+### Animate
+
+| Project Name | Your Name / Github Handle | Demo/Gif |
+| :---: | :---: | :---: |
+| [Zoom In](https://github.com/ManrajGrover/SingleDivProject/blob/master/Animate/zoomIn.html) | [netham91](https://github.com/netham91) | ![Zoom In](https://raw.githubusercontent.com/ManrajGrover/SingleDivProject/master/Assets/zoomIn.gif) |
+| [Zoom Out](https://github.com/ManrajGrover/SingleDivProject/blob/master/Animate/zoomOut.html) | [netham91](https://github.com/netham91) | ![Zoom In](https://raw.githubusercontent.com/ManrajGrover/SingleDivProject/master/Assets/zoomOut.gif) |
+
 ## License
 [MIT](https://github.com/ManrajGrover/SingleDivProject/blob/master/LICENSE).
