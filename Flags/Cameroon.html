@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Cameroon | Flags</title>
+    <style>
+      #cameroon {
+       position: relative;
+       width: 200px;
+       height: 400px;
+       background-color: #007A5E;
+      }
+
+      #cameroon::before {
+       content: '\2605';
+       position: absolute;
+       top: 0;
+       left: 100%;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       width: 200px;
+       height: 400px;
+       color: #FCD116;
+       font-size: 6.0em;
+       background-color: #CE1126;
+      }
+
+      #cameroon::after {
+       content: '';
+       position: absolute;
+       top: 0;
+       left: 200%;
+       width: 200px;
+       height: 400px;
+       background-color: #FCD116;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="cameroon"></div>
+  </body>
+</html>
