@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> zoomIn | Animate</title>
+    <style>
+        #zoomIn {
+            width: 100px;
+            height: 80px;
+            position: relative;
+            color: grey;
+            animation: zoomIn 2s;
+            -webkit-animation-iteration-count: infinite;
+            animation-iteration-count: infinite;
+        }
+       
+        @keyframes zoomIn {
+            0% {
+                transform: scale(0.2);
+                opacity: 0;
+            }
+            60% {
+                transform: scale(1.4);
+                opacity: 1;
+            }
+            100% {
+                transform: scale(1);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div id="zoomIn">Sample Text</div>
+</body>
+
+</html>
