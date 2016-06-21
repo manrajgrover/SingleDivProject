@@ -45,11 +45,8 @@ One `<div>`. Many possibilities.
 | [Italy](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Italy.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Italy](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Italy.png) |
 | [Ivory Coast](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/IvoryCoast.html) | [skeevey](https://github.com/skeevey) | ![IvoryCoast](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/IvoryCoast.png) |
 | [Japan](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Japan.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Japan](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Japan.png) |
-<<<<<<< HEAD
-| [Poland](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Poland.html) | [mschweichler](https://github.com/mschweichler) | ![Poland](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Poland.png) |
-=======
 | [Nigeria](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Nigeria.html) | [skeevey](https://github.com/skeevey) | ![Nigeria](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Nigeria.png) |
->>>>>>> f02c49b3771387f4251e151be8a8b6505ccbeea8
+| [Poland](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Poland.html) | [mschweichler](https://github.com/mschweichler) | ![Poland](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Poland.png) |
 | [Russia](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Russia.html) | [ad222kr](https://github.com/ad222kr) | ![Russia](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Russia.png) |
 | [South Africa](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/South%20Africa.html) | [DHernandex](https://github.com/dhernandex) | ![South Africa](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/South%20Africa.png)
 | [Sweden](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Sweden.html) | [jacksarick](https://github.com/jacksarick) | ![Sweden](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Sweden.png) |
