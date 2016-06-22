@@ -36,8 +36,6 @@ One `<div>`. Many possibilities.
 | [Bulgaria](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Bulgaria.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Bulgaria](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Bulgaria.png) |
 | [Canada](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Canada.html) | [Scott Kaye](https://github.com/ScottKaye) | ![Canada](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Canada.png) |
 | [Cameroon](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Cameroon.html) | [1forh](https://github.com/1firg) | ![Cameroon](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Cameroon.png) |
-| [Cameroon](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Cameroon.html) | [1forh](https://github.com/1forh) | ![Cameroon](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Cameroon.png) |
-| [Cameroon](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Cameroon.html) | [1forh](https://github.com/1forh) | ![Cameroon](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Cameroon.png) |
 | [Canada](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Canada.html) | [Scott Kaye](https://github.com/ScottKaye) | ![Canada](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Canada.png) | 
 | [Colombia](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Colombia.html) | [DHernandex](https://github.com/dhernandex) | ![Colombia](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Colombia.png)
 | [Denmark](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Denmark.html) | [jacksarick](https://github.com/jacksarick) | ![Denmark](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Denmark.png) |
@@ -62,4 +60,3 @@ One `<div>`. Many possibilities.
 
 ## License
 [MIT](https://github.com/ManrajGrover/SingleDivProject/blob/master/LICENSE).
-
