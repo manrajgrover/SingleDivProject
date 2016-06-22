@@ -34,10 +34,9 @@ One `<div>`. Many possibilities.
 | [Bangladesh](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Bangladesh.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Bangladesh](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Bangladesh.png) |
 | [Belgium](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Belgium.html) | [AndyMathys](https://github.com/AndyMathys) | ![Belgium](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Belgium.png) |
 | [Bulgaria](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Bulgaria.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Bulgaria](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Bulgaria.png) |
-<<<<<<< 4c23de5d3d457dd8345be14d50cb3c30c1358248
 | [Canada](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Canada.html) | [Scott Kaye](https://github.com/ScottKaye) | ![Canada](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Canada.png) |
-| [Cameroon](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Cameroon.html) | [1forh](https://github.com/1firg) | ![Cameroon](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Cameroon.png) | 
-=======
+| [Cameroon](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Cameroon.html) | [1forh](https://github.com/1firg) | ![Cameroon](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Cameroon.png) |
+| [Cameroon](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Cameroon.html) | [1forh](https://github.com/1forh) | ![Cameroon](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Cameroon.png) |
 | [Cameroon](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Cameroon.html) | [1forh](https://github.com/1forh) | ![Cameroon](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Cameroon.png) |
 | [Canada](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Canada.html) | [Scott Kaye](https://github.com/ScottKaye) | ![Canada](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Canada.png) | 
 | [Colombia](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Colombia.html) | [DHernandex](https://github.com/dhernandex) | ![Colombia](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Colombia.png)
