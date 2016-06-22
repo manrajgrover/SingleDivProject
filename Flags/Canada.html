@@ -3,6 +3,7 @@
   <head>
     <title>Canada | Flags</title>
     <style>
+      /* Draw the base 3-striped flag */
       #canada {
         width: 150px;
         height: 75px;
@@ -11,19 +12,42 @@
         position: relative;
       }
 
+      /* Properly draw a maple leaf */
       #canada::before {
+        content: "";
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        top: 12px;
+        left: 50px;
+        background: #f00;
+
+        /* Maple leaf-shaped clip-path, painstakingly created by hand (and Inkscape). */
+        -webkit-clip-path: polygon(41.03% 18.65%, 31% 13.55%, 36.26% 43.2%, 23.04% 30.2%, 18.8% 36.45%, 5.1% 34.6%, 9.3% 50.43%, 2.9% 54.91%, 27.06% 75.11%, 23.81% 84.89%, 48% 78.59%, 45.28% 100%, 54.72% 100%, 52.05% 78.58%, 76.19% 84.88%, 72.94% 75.1%, 97.14% 54.9%, 90.69% 50.4%, 94.89% 34.6%, 81.19% 36.4%, 76.95% 30.2%, 63.7% 43.2%, 69% 13.55%, 58.97% 18.65%, 50% 0%);
+      }
+
+      /* IE and Edge don't support clip-path, so we overlay a Unicode MAPLE LEAF and colour it red */
+      #canada::after {
         content: "\1F341";  /* Unicode MAPLE LEAF */
         position: absolute;
         top: 0;
-        right: 0;
-        left: 0;
+        right: 40px;
+        left: 40px;
         text-align: center;
         font-size: 50px;
         line-height: 75px;
+        color: #f00;
+        background: #fff;
+        /* Blend it for Chrome so nothing appears */
+        mix-blend-mode: color-dodge;
+      }
 
-        /* Make it red, since the maple leaf emoji gets coloured gold by default */
-        -webkit-filter: hue-rotate(301.5deg) saturate(10);
-        filter: hue-rotate(301.5deg) saturate(10);
+      /* Firefox's blending modes appear to be absolutely broken.  Sadly we have to fall back to the old hacky way using more hacks.  Clip-path for Firefox also only works with an embedded SVG in the document, which breaks the rules. */
+      @-moz-document url-prefix() {
+        #canada::after {
+          mix-blend-mode: initial;
+          filter: hue-rotate(301.5deg) saturate(4);
+        }
       }
     </style>
   </head>
