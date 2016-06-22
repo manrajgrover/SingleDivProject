@@ -55,6 +55,7 @@ One `<div>`. Many possibilities.
 | [The Netherlands](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Netherlands.html) | [jdhoek](https://github.com/jdhoek) | ![The Netherlands](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Netherlands.png) |
 | [United Kingdom](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/UK.html) | [jdhoek](https://github.com/jdhoek) | ![United Kingdom](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/UK.png) |
 | [United States of America](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/USA.html) | [jdhoek](https://github.com/jdhoek) | ![United States of America](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/USA.png) |
+| [Poland](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Poland.html) | [Mati365](https://github.com/Mati365) | ![Poland](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Poland.png) |
 
 ## License
 [MIT](https://github.com/ManrajGrover/SingleDivProject/blob/master/LICENSE).
