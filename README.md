@@ -22,7 +22,7 @@ One `<div>`. Many possibilities.
 | [Ripple Effect](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Ripple%20Effect.html) |  [ManrajGrover](https://github.com/ManrajGrover) | ![Ripple Effect](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Ripple%20Effect.gif) |
 | [Simple Spinner](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Simple%20Spinner.html) |  [ManrajGrover](https://github.com/ManrajGrover) | ![Simple Spinner](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Simple%20Spinner.gif) |
 | [Simple Text Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Simple%20Text%20Loader.html) |  [ManrajGrover](https://github.com/ManrajGrover) | ![Simple Text Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Simple%20Text%20Loader.gif) |
-| [Bouncing Ball](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Bouncing%20Ball.html) |  [mtacchino](https://github.com/mtacchino) | ![Bouncing Ball](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Bouncing%20Ball.gif) |
+
 
 ### Flags
 
@@ -32,7 +32,6 @@ One `<div>`. Many possibilities.
 | [Austria](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Austria.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Austria](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Austria.png) |
 | [Bahamas](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Bahamas.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Bahamas](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Bahamas.png) |
 | [Bangladesh](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Bangladesh.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Bangladesh](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Bangladesh.png) |
-| [Belgium](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Belgium.html) | [AndyMathys](https://github.com/AndyMathys) | ![Belgium](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Belgium.png) |
 | [Bulgaria](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Bulgaria.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Bulgaria](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Bulgaria.png) |
 | [Canada](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Canada.html) | [Scott Kaye](https://github.com/ScottKaye) | ![Canada](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Canada.png) | 
 | [Colombia](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Colombia.html) | [DHernandex](https://github.com/dhernandex) | ![Colombia](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Colombia.png)
@@ -41,11 +40,8 @@ One `<div>`. Many possibilities.
 | [France](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/France.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![France](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/France.png) |
 | [Germany](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Germany.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Germany](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Germany.png) |
 | [Greece](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Greece.html) | [jdhoek](https://github.com/jdhoek) | ![Greece](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Greece.png) |
-| [Ireland](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Ireland.html) | [skeevey](https://github.com/skeevey) | ![Ireland](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Ireland.png) |
 | [Italy](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Italy.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Italy](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Italy.png) |
-| [Ivory Coast](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/IvoryCoast.html) | [skeevey](https://github.com/skeevey) | ![IvoryCoast](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/IvoryCoast.png) |
 | [Japan](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Japan.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Japan](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Japan.png) |
-| [Nigeria](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Nigeria.html) | [skeevey](https://github.com/skeevey) | ![Nigeria](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Nigeria.png) |
 | [Poland](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Poland.html) | [mschweichler](https://github.com/mschweichler) | ![Poland](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Poland.png) |
 | [Russia](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Russia.html) | [ad222kr](https://github.com/ad222kr) | ![Russia](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Russia.png) |
 | [South Africa](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/South%20Africa.html) | [DHernandex](https://github.com/dhernandex) | ![South Africa](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/South%20Africa.png)
