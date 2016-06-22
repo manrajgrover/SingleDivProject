@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>CL</title>
+  <style>
+    body {margin: 10vh; padding: 0;}
+    div {
+      width: 66vw; height: 44vw;
+      background: repeating-linear-gradient(90deg, white, white 22vw, #DC241F 22vw, #DC241F 66vw);
+      background: repeating-linear-gradient(90deg, #0035AD, #0035AD 22vw, white 22vw, white 66vw);
+      box-shadow: 10px 10px 15px 0px #bbbbbb;
+      position: relative;
+      top: 50%;
+      margin: 0 auto;
+    }
+
+    div::before {
+      position: absolute;
+      display: block;
+      width: 22vw;
+      line-height: 22vw;
+      content: "★";
+      text-align: center;
+      font-size: 11vw;
+      color: white;
+    }
+
+    div::after {
+      position: absolute;
+      content: ' '  ;
+      display: block;
+      width: 66vw;
+      height: 22vw;
+      bottom: 0;
+      background: #DC241F;
+    }
+  </style>
+</head>
+<body>
+  <div></div>
+</body>
+</html>
