@@ -4,13 +4,24 @@
 <head>
     <title> zoomIn | Animate</title>
     <style>
+
+         
+
         #zoomIn {
+            width: 200px;
+            height: 200px;
             position: relative;
             color: grey;
             animation: zoomIn 2s;
             -webkit-animation-iteration-count: infinite;
             animation-iteration-count: infinite;
         }
+
+        #zoomIn::after {
+            content: "The quick brown fox jumps over the lazy dog" ;
+        }
+
+       
        
         @keyframes zoomIn {
             0% {
@@ -29,7 +40,7 @@
 </head>
 
 <body>
-    <div id="zoomIn">The quick brown fox jumps over the lazy dog</div>
+    <div id="zoomIn"></div>
 </body>
 
 </html>
