@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Brazil | Flags</title>
+    <style> #brazil {
+        width: 320px;
+        height: 225px;
+        background-color: #FFE11F;
+        background-image: 
+			linear-gradient(
+				30deg,
+				#16B83E 30%,
+				transparent 30%,
+				transparent 70%,
+				#16B83E 70%
+			),
+    		linear-gradient(
+				-30deg,
+				#16B83E 30%,
+				transparent 30%,
+				transparent 70%,
+				#16B83E 70%
+			);
+        box-shadow: 0px 0px 15px 2px #e5e5e5;
+        position: relative;
+      }
+      #brazil::before, #brazil::after {
+        content: "";
+        position: absolute;
+        display: block;
+        top: 0;
+        left: 0;
+      }
+      #brazil::before {
+		  width: 110px;
+		  height: 110px;
+		  background-color: #1651B8;
+		  background-image:
+		  radial-gradient(
+		  	140% 100% at 35% 111%,
+			#1651B8 68%,
+			white 70%,
+			white 77%,
+			#1651B8 79%
+		  );
+		  transform: rotate(5deg);
+		  border-radius: 50%;
+		  top: 25%;
+		  left: 32%;
+      }
+      #brazil::after {
+		  display: none;
+		  width: 36px;
+		  height: 35px;
+		  top: 18px;
+		  left: 54px;
+		  border-radius: 50%;
+		        content: "★   ★   ★   ★   ★   ★ ★   ★   ★   ★   ★ ★   ★   ★   ★   ★   ★ ★   ★   ★   ★   ★ ★   ★   ★   ★   ★   ★ ★   ★   ★   ★   ★ ★   ★   ★   ★   ★   ★ ★   ★   ★   ★   ★ ★   ★   ★   ★   ★   ★ ★   ★   ★   ★   ★ ★   ★   ★   ★   ★   ★";
+        font-size: 6px;
+        font-family: 'DejaVu Sans', sans-serif;
+        line-height: 61%;
+        text-align: center;
+        word-wrap: normal;
+        padding-top: 11px;
+        height: 650px;
+   transform: scale(1, 0.5);
+	  }
+    </style>
+  </head>
+  <body>
+    <div id="brazil"></div>
+  </body>
+</html>
