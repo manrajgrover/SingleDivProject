@@ -23,6 +23,7 @@ One `<div>`. Many possibilities.
 | [Simple Spinner](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Simple%20Spinner.html) |  [ManrajGrover](https://github.com/ManrajGrover) | ![Simple Spinner](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Simple%20Spinner.gif) |
 | [Simple Text Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Simple%20Text%20Loader.html) |  [ManrajGrover](https://github.com/ManrajGrover) | ![Simple Text Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Simple%20Text%20Loader.gif) |
 | [Bouncing Ball](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Bouncing%20Ball.html) |  [mtacchino](https://github.com/mtacchino) | ![Bouncing Ball](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Bouncing%20Ball.gif) |
+| [Dot Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Dot%20Loader.html) |  [aaroniker](https://github.com/aaroniker) | ![Dot Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Dot%20Loader.gif) |
 
 ### Flags
 
