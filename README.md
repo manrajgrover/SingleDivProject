@@ -53,9 +53,7 @@ One `<div>`. Many possibilities.
 | [Japan](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Japan.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Japan](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Japan.png) |
 |[Laos](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Laos.html) | [jamcgrath](https://github.com/jamcgrath) | ![Laos](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Laos.png) |
 | [Nigeria](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Nigeria.html) | [skeevey](https://github.com/skeevey) | ![Nigeria](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Nigeria.png) |
-
-| [Pakistan](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/pakistan.html) | [ObaidAshraf](https://github.com/ObaidAshraf) | ![Pakistan](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/CzechRepublic.png)
-
+| [Pakistan](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/pakistan.html) | [ObaidAshraf](https://github.com/ObaidAshraf) | ![Pakistan](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/CzechRepublic.png) |
 | [Poland](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Poland.html) | [mschweichler](https://github.com/mschweichler) | ![Poland](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Poland.png) |
 | [Russia](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Russia.html) | [ad222kr](https://github.com/ad222kr) | ![Russia](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Russia.png) |
 | [Senegal](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Senegal.html) | [Death259](https://github.com/Death259) | ![Senegal](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Senegal.png) |
