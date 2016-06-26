@@ -58,6 +58,7 @@ One `<div>`. Many possibilities.
 | [Zoom In](https://github.com/ManrajGrover/SingleDivProject/blob/master/Animate/zoomIn.html) | [netham91](https://github.com/netham91) | ![Zoom In](https://raw.githubusercontent.com/ManrajGrover/SingleDivProject/master/Assets/zoomIn.gif) |
 | [Zoom Out](https://github.com/ManrajGrover/SingleDivProject/blob/master/Animate/zoomOut.html) | [netham91](https://github.com/netham91) | ![Zoom In](https://raw.githubusercontent.com/ManrajGrover/SingleDivProject/master/Assets/zoomOut.gif) |
 | [Rotate 360](https://github.com/ManrajGrover/SingleDivProject/blob/master/Animate/rotate360.html) | [netham91](https://github.com/netham91) | ![Zoom In](https://raw.githubusercontent.com/ManrajGrover/SingleDivProject/master/Assets/rotate360.gif) |
+| [Beating Heart (ASCII)](https://github.com/ManrajGrover/SingleDivProject/blob/master/Animate/beatingHeart.html) | [netham91](https://github.com/netham91) | ![Zoom In](https://raw.githubusercontent.com/ManrajGrover/SingleDivProject/master/Assets/beatingHeart.gif) |
 
 ## License
 [MIT](https://github.com/ManrajGrover/SingleDivProject/blob/master/LICENSE).
