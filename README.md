@@ -3,6 +3,16 @@
 
 One `<div>`. Many possibilities.
 
+## What is this?
+
+This project focuses on exploring all the possibilities that can be done with a single `<div>` element using CSS only.
+
+## Why?
+
+1. Great way to explore CSS properties.
+2. Restrictions forces you to learn new properties and different ways to do particular styling.
+3. Because we can.
+
 ## Demos
 
 ### Designs
