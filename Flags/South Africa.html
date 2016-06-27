@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>South Africa | Flags</title>
+    <style>
+      #southafrica {
+        width: 150px;
+        height: 100px;
+        position: relative;
+        overflow: hidden;
+        background: linear-gradient(180deg,
+          #E23D28 0%,
+          #E23D28 33.3333%,
+          #FFFFFF 33.3333%,
+          #FFFFFF 66.6666%,
+          #0C1C8C 66.6666%,
+          #0C1C8C 100%);
+      }
+
+      #southafrica::before {
+        content: "";
+        height: 100px;
+        width: 100px;
+        display: block;
+        background: #000000;
+        box-shadow: 0 0 0 8px #FFF,
+          inset 0 0 0 18px #007C59,
+          inset 0 0 0 26px #FCB514;
+
+        transform: translate(-50%)
+          rotate(-45deg)
+          skew(8deg, 8deg);
+      }
+
+      #southafrica::after {
+        content: "";
+        height: 19px;
+        width: 60%;
+        display: block;
+        position: absolute;
+        top: 50%;
+        right: 0;
+        transform: translateY(-50%);
+        background-color: #007C59;
+      }
+
+
+    </style>
+  </head>
+  <body>
+    <div id="southafrica">
+    </div>
+  </body>
+</html>
