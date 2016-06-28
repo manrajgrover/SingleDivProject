@@ -38,6 +38,7 @@ Please go through the [Contributions](https://github.com/ManrajGrover/SingleDivP
 | [Simple Text Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Simple%20Text%20Loader.html) |  [ManrajGrover](https://github.com/ManrajGrover) | ![Simple Text Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Simple%20Text%20Loader.gif) |
 | [Bouncing Ball](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Bouncing%20Ball.html) |  [mtacchino](https://github.com/mtacchino) | ![Bouncing Ball](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Bouncing%20Ball.gif) |
 | [Dot Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Dot%20Loader.html) |  [aaroniker](https://github.com/aaroniker) | ![Dot Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Dot%20Loader.gif) |
+| [Box Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Box%20Loader.html) |  [AnubrataDS](https://github.com/anubratads) | ![Box Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Box%20Loader.gif) |
 
 ### Flags
 
