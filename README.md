@@ -22,23 +22,23 @@ Please go through the [Contributions](https://github.com/ManrajGrover/SingleDivP
 ### Designs
 | Project Name | Your Name / Github Handle | Demo/Gif |
 | :---: | :---: | :---: |
-| [New Instagram Logo](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Instagram%20New%20Logo.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![New Instagram Logo](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/instagram.jpg) |
 | [Battery](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Battery.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Battery](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Battery.gif) |
 | [Hamburger Menu](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Hamburger.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Hamburger Menu](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Hamburger.png) |
+| [New Instagram Logo](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Instagram%20New%20Logo.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![New Instagram Logo](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/instagram.jpg) |
 
 ### Loaders
 
 | Project Name | Your Name / Github Handle | Demo/Gif |
 | :---: | :---: | :---: |
-| [Play Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Play%20Loader.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Play Loader](https://raw.githubusercontent.com/ManrajGrover/SingleDivProject/master/Assets/Play%20Loader.gif) |
 | [Awesome Dots](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Awesome%20Dots.html) |  [ManrajGrover](https://github.com/ManrajGrover) | ![Awesome Dots](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Awesome%20Dots.gif) |
+| [Bouncing Ball](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Bouncing%20Ball.html) |  [mtacchino](https://github.com/mtacchino) | ![Bouncing Ball](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Bouncing%20Ball.gif) |
+| [Box Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Box%20Loader.html) |  [AnubrataDS](https://github.com/anubratads) | ![Box Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Box%20Loader.gif) |
+| [Dot Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Dot%20Loader.html) |  [aaroniker](https://github.com/aaroniker) | ![Dot Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Dot%20Loader.gif) |
 | [Fill up](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Fill%20up.html) |  [ManrajGrover](https://github.com/ManrajGrover) | ![Fill up](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Fill%20up.gif) |
 | [Ripple Effect](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Ripple%20Effect.html) |  [ManrajGrover](https://github.com/ManrajGrover) | ![Ripple Effect](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Ripple%20Effect.gif) |
+| [Play Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Play%20Loader.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Play Loader](https://raw.githubusercontent.com/ManrajGrover/SingleDivProject/master/Assets/Play%20Loader.gif) |
 | [Simple Spinner](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Simple%20Spinner.html) |  [ManrajGrover](https://github.com/ManrajGrover) | ![Simple Spinner](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Simple%20Spinner.gif) |
 | [Simple Text Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Simple%20Text%20Loader.html) |  [ManrajGrover](https://github.com/ManrajGrover) | ![Simple Text Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Simple%20Text%20Loader.gif) |
-| [Bouncing Ball](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Bouncing%20Ball.html) |  [mtacchino](https://github.com/mtacchino) | ![Bouncing Ball](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Bouncing%20Ball.gif) |
-| [Dot Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Dot%20Loader.html) |  [aaroniker](https://github.com/aaroniker) | ![Dot Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Dot%20Loader.gif) |
-| [Box Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Box%20Loader.html) |  [AnubrataDS](https://github.com/anubratads) | ![Box Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Box%20Loader.gif) |
 
 ### Flags
 
