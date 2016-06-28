@@ -53,7 +53,6 @@ Please go through the [Contributions](https://github.com/ManrajGrover/SingleDivP
 | [Canada](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Canada.html) | [Scott Kaye](https://github.com/ScottKaye) | ![Canada](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Canada.png) |
 | [Cameroon](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Cameroon.html) | [1forh](https://github.com/1forh) | ![Cameroon](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Cameroon.png) |
 | [Colombia](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Colombia.html) | [DHernandex](https://github.com/dhernandex) | ![Colombia](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Colombia.png)
->>>>>>> refs/remotes/ManrajGrover/master
 | [Denmark](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Denmark.html) | [jacksarick](https://github.com/jacksarick) | ![Denmark](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Denmark.png) |
 | [England](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/England.html) | [TheWebartist](https://github.com/TheWebartist) | ![England](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/England.png) |
 | [Finland](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Finland.html) | [jacksarick](https://github.com/jacksarick) | ![Finland](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Finland.png) |
