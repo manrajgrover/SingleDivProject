@@ -22,7 +22,7 @@ Please go through the [Contributions](https://github.com/ManrajGrover/SingleDivP
 ### Designs
 | Project Name | Your Name / Github Handle | Demo/Gif |
 | :---: | :---: | :---: |
-| [Battery](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Battery.html) | [ManrajGrover](https://github.com/ManrajGrover) | <div style="width: 100%;max-width: 200px;"> ![Battery](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Battery.gif) </div>|
+| [Battery](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Battery.html) | [ManrajGrover](https://github.com/ManrajGrover) |  <img src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Battery.gif" width="200" />|
 | [Hamburger Menu](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Hamburger.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Hamburger Menu](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Hamburger.png) |
 | [New Instagram Logo](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Instagram%20New%20Logo.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![New Instagram Logo](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/instagram.jpg) |
 
