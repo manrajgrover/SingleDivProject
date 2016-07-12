@@ -2,15 +2,6 @@
 ![Single Div](https://img.shields.io/badge/Single%20Div-Yes-brightgreen.svg) ![CSS](https://img.shields.io/badge/CSS-Yes-brightgreen.svg)
 
 One `<div>`. Many possibilities.
-<style>
-
-img{
-  width: 100%;
-  max-width: 200px;
-  height: auto;	
-}
-
-</style>
 
 ## What is this?
 
@@ -31,7 +22,7 @@ Please go through the [Contributions](https://github.com/ManrajGrover/SingleDivP
 ### Designs
 | Project Name | Your Name / Github Handle | Demo/Gif |
 | :---: | :---: | :---: |
-| [Battery](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Battery.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Battery](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Battery.gif) |
+| [Battery](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Battery.html) | [ManrajGrover](https://github.com/ManrajGrover) | <div style="width: 100%;max-width: 200px;"> ![Battery](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Battery.gif) </div>|
 | [Hamburger Menu](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Hamburger.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Hamburger Menu](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Hamburger.png) |
 | [New Instagram Logo](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Instagram%20New%20Logo.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![New Instagram Logo](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/instagram.jpg) |
 
