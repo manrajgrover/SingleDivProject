@@ -3,12 +3,15 @@
 
 One `<div>`. Many possibilities.
 <style>
+
 img{
   width: 100%;
   max-width: 200px;
   height: auto;	
 }
-<style>
+
+</style>
+
 ## What is this?
 
 This project focuses on exploring all the possibilities that can be done with a single `<div>` element using CSS only.
