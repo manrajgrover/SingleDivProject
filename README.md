@@ -2,7 +2,7 @@
 ![Single Div](https://img.shields.io/badge/Single%20Div-Yes-brightgreen.svg) ![CSS](https://img.shields.io/badge/CSS-Yes-brightgreen.svg)
 
 One `<div>`. Many possibilities.
-x
+
 ## What is this?
 
 This project focuses on exploring all the possibilities that can be done with a single `<div>` element using CSS only.
