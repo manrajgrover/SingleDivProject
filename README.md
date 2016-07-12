@@ -2,7 +2,7 @@
 ![Single Div](https://img.shields.io/badge/Single%20Div-Yes-brightgreen.svg) ![CSS](https://img.shields.io/badge/CSS-Yes-brightgreen.svg)
 
 One `<div>`. Many possibilities.
-
+x
 ## What is this?
 
 This project focuses on exploring all the possibilities that can be done with a single `<div>` element using CSS only.
@@ -22,9 +22,9 @@ Please go through the [Contributions](https://github.com/ManrajGrover/SingleDivP
 ### Designs
 | Project Name | Your Name / Github Handle | Demo/Gif |
 | :---: | :---: | :---: |
-| [Battery](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Battery.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Battery](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Battery.gif) |
-| [Hamburger Menu](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Hamburger.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![Hamburger Menu](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Hamburger.png) |
-| [New Instagram Logo](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Instagram%20New%20Logo.html) | [ManrajGrover](https://github.com/ManrajGrover) | ![New Instagram Logo](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/instagram.jpg) |
+| [Battery](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Battery.html) | [ManrajGrover](https://github.com/ManrajGrover) | <img width="400" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Battery.gif" /> |
+| [Hamburger Menu](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Hamburger.html) | [ManrajGrover](https://github.com/ManrajGrover) | <img width="400" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Hamburger.png" /> |
+| [New Instagram Logo](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Instagram%20New%20Logo.html) | [ManrajGrover](https://github.com/ManrajGrover) | <img width="400" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/instagram.jpg" /> |
 
 ### Loaders
 
@@ -91,4 +91,4 @@ Please go through the [Contributions](https://github.com/ManrajGrover/SingleDivP
 | [Yemen](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Yemen.html) | [Death259](https://github.com/Death259) | ![Yemen](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Yemen.png) |
 
 ## License
-[MIT](https://github.com/ManrajGrover/SingleDivProject/blob/master/LICENSE).
+[MIT](https://github.com/ManrajGrover/SingleDivProject/blob/master/LICENSE)
