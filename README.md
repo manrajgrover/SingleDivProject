@@ -15,7 +15,7 @@ This project focuses on exploring all the possibilities that can be done with a 
 
 ## How to contribute?
 
-Please go through the [Contributions](https://github.com/ManrajGrover/SingleDivProject/blob/master/CONTRIBUTIONS.md) guidelines before sending a pull request.
+Please go through the [Contributions](https://github.com/ManrajGrover/SingleDivProject/blob/master/.github/CONTRIBUTING.md) guidelines before sending a pull request.
 
 ## Demos
 
