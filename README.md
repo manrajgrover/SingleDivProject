@@ -95,4 +95,4 @@ Please go through the [Contributions](https://github.com/ManrajGrover/SingleDivP
 | [Yemen](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Yemen.html) | [Death259](https://github.com/Death259) | <img width="350" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Yemen.png" /> |
 
 ## License
-[MIT](https://github.com/ManrajGrover/SingleDivProject/blob/master/LICENSE)
+[MIT](https://github.com/ManrajGrover/SingleDivProject/blob/master/LICENSE) © [Manraj Singh](https://github.com/ManrajGrover)
