@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Laos | Flags</title>
+    <style>
+
+    #laos {
+      width: 450px;
+      height: 150px;
+      background: #071d49;
+      position: relative;
+      top: 75px;
+      background-image: -webkit-radial-gradient(50% 50% 60px, #ffffff 0%, #ffffff 60px, #071d49 61px);
+      background-image: radial-gradient(60px at 50% 50%, #ffffff 0%, #ffffff 60px, #071d49 61px);
+    }
+
+    #laos::before, 
+    #laos::after {
+      content: '';
+      display: block;
+      position: absolute;
+      width: 100%;
+      height: 75px;
+      background: #d50032;
+    }
+
+    #laos::before {
+      bottom: 150px;
+    }
+
+    #laos::after {
+      top: 150px;
+    }
+
+    </style>
+  </head>
+  <body>
+    <div id="laos"></div>
+  </body>
+</html>
