@@ -1,0 +1,58 @@
+<html>
+  <head>
+    <title>Revolving Circles | Loaders</title>
+    <style>
+      #loader,
+      #loader::before,
+      #loader::after {
+        border: solid 2px transparent;
+        border-radius: 100%;
+        animation-name: fullRotate;
+        animation-duration: 2s;
+        animation-timing-function: linear;
+        animation-delay: -2s;
+        animation-iteration-count: infinite;
+      }
+
+      #loader {
+        position: relative;
+        width: 100px;
+        height: 100px;
+        margin: 0 auto;
+        border-top-color: blue;
+      }
+
+      #loader::before,
+      #loader::after {
+        position: absolute;
+        content: "";
+      }
+
+      #loader::before {
+        top: 15px;
+        right: 15px;
+        bottom: 15px;
+        left: 15px;
+        border-top-color: red;
+        animation-duration: 6s;
+      }
+
+      #loader::after {
+        top: 30px;
+        right: 30px;
+        bottom: 30px;
+        left: 30px;
+        border-top-color: green;
+        animation-duration: 12s;
+      }
+
+      @keyframes fullRotate {
+        from { transform: rotate(0deg); }
+        to   { transform: rotate(360deg); }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="loader"></div>
+  </body>
+</html>
