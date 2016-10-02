@@ -19,7 +19,7 @@ Please go through the [Contributions](https://github.com/ManrajGrover/SingleDivP
 
 # Reddit threads
 
-1. [What all can you do with a single <div> element using pure CSS? Check this out!](https://www.reddit.com/r/programming/comments/4oyd9w/what_all_can_you_do_with_a_single_div_element/) on [/r/programming/](https://www.reddit.com/r/programming/)
+1. [What all can you do with a single `<div>` element using pure CSS? Check this out!](https://www.reddit.com/r/programming/comments/4oyd9w/what_all_can_you_do_with_a_single_div_element/) on [/r/programming/](https://www.reddit.com/r/programming/)
 2. [One `<div>`. Many possibilities.](https://www.reddit.com/r/web_design/comments/4otxnk/one_div_many_possibilities/) on [/r/web_design/](https://www.reddit.com/r/web_design/)
 3. [One `<div>`. Many possibilities.](https://www.reddit.com/r/coolgithubprojects/comments/4oy7y1/one_div_many_possibilities/) on [/r/coolgithubprojects/](https://www.reddit.com/r/coolgithubprojects/)
 
