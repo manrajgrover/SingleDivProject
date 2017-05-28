@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Cat Slideshow | Fun</title>
+    <style>
+      #meowz {
+        width: 200px;
+        height: 300px;
+        background: url(http://placekitten.com/200/300) no-repeat center center;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="meowz">
+      <h3> Click Me! </h3>
+    </div>
+
+    <script>
+      document.getElementById('meowz').onclick = function() {
+        var height = Math.floor(Math.random() * (300 - 200 + 1)) + 200;
+        var width = Math.floor(Math.random() * (300 - 200 + 1)) + 200;
+        document.getElementById('meowz').style.width = width;
+        document.getElementById('meowz').style.height = height;
+        document.getElementById('meowz').style.backgroundImage = 'url(http://placekitten.com/' + width + '/' + height + ')';
+      }
+    </script>
+  </body>
+</html>

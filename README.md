@@ -108,5 +108,10 @@ Please go through the [Contributions](https://github.com/ManrajGrover/SingleDivP
 | :---: | :---: | :---: |
 | [Box Breathing](https://github.com/ManrajGrover/SingleDivProject/blob/master/Tools/BoxBreathing.html) |  [gnclmorais](https://github.com/gnclmorais) | <img width="350" src="https://raw.githubusercontent.com/ManrajGrover/SingleDivProject/master/Assets/BoxBreathing.gif" /> |
 
+### Fun
+| Project Name | Your Name / Github Handle | Demo/Gif |
+| :---: | :---: | :---: |
+| [Cat Slideshow](https://github.com/ManrajGrover/SingleDivProject/blob/master/Fun/CatSlideshow.html) | [CharlesPonti](https://github.com/charlesponti) | ![CatSlideshow](https://github.com/charlesponti/SingleDivProject/blob/master/Assets/CatSlideshow.png) |
+
 ## License
 [MIT](https://github.com/ManrajGrover/SingleDivProject/blob/master/LICENSE) © [Manraj Singh](https://github.com/ManrajGrover)
