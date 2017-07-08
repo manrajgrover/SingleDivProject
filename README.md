@@ -17,6 +17,12 @@ This project focuses on exploring all the possibilities that can be done with a 
 
 Please go through the [Contributions](https://github.com/ManrajGrover/SingleDivProject/blob/master/.github/CONTRIBUTING.md) guidelines before sending a pull request.
 
+# Reddit threads
+
+1. [What all can you do with a single `<div>` element using pure CSS? Check this out!](https://www.reddit.com/r/programming/comments/4oyd9w/what_all_can_you_do_with_a_single_div_element/) on [/r/programming/](https://www.reddit.com/r/programming/)
+2. [One `<div>`. Many possibilities.](https://www.reddit.com/r/web_design/comments/4otxnk/one_div_many_possibilities/) on [/r/web_design/](https://www.reddit.com/r/web_design/)
+3. [One `<div>`. Many possibilities.](https://www.reddit.com/r/coolgithubprojects/comments/4oy7y1/one_div_many_possibilities/) on [/r/coolgithubprojects/](https://www.reddit.com/r/coolgithubprojects/)
+
 ## Demos
 
 ### Designs
@@ -73,11 +79,13 @@ Please go through the [Contributions](https://github.com/ManrajGrover/SingleDivP
 | [Italy](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Italy.html) | [ManrajGrover](https://github.com/ManrajGrover) | <img width="350" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Italy.png" /> |
 | [Ivory Coast](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/IvoryCoast.html) | [skeevey](https://github.com/skeevey) | <img width="350" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/IvoryCoast.png" /> |
 | [Japan](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Japan.html) | [ManrajGrover](https://github.com/ManrajGrover) | <img width="350" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Japan.png" /> |
-|[Laos](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Laos.html) | [jamcgrath](https://github.com/jamcgrath) | <img width="350" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Laos.png" /> |
-|[Lithuania](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Lithuania.html) | [fosron](https://github.com/fosron) | <img width="350" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Lithuania.png" /> |
+| [Laos](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Laos.html) | [jamcgrath](https://github.com/jamcgrath) | <img width="350" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Laos.png" /> |
+| [Latvia](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Latvia.html) | [vasiljevs](https://github.com/vasiljevs) | <img width="350" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Latvia.png" /> | 
+| [Lithuania](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Lithuania.html) | [fosron](https://github.com/fosron) | <img width="350" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Lithuania.png" /> |
 | [Nigeria](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Nigeria.html) | [skeevey](https://github.com/skeevey) | <img width="350" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Nigeria.png" /> |
 | [Pakistan](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/pakistan.html) | [ObaidAshraf](https://github.com/ObaidAshraf) | <img width="350" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Pakistan.png" /> |
 | [Poland](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Poland.html) | [mschweichler](https://github.com/mschweichler) | <img width="350" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Poland.png" /> |
+| [Puerto Rico](Flags/PuertoRico.html) | [aallfredo](https://github.com/aallfredo) and [jorluiseptor](https://github.com/jorluiseptor) | ![PuertoRico](Assets/PuertoRico.png) |
 | [Russia](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Russia.html) | [ad222kr](https://github.com/ad222kr) | <img width="350" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Russia.png" /> |
 | [Senegal](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Senegal.html) | [Death259](https://github.com/Death259) | <img width="350" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Senegal.png" /> |
 | [South Africa](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/South%20Africa.html) | [DHernandex](https://github.com/dhernandex) | <img width="350" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/South%20Africa.png" /> |
@@ -94,6 +102,12 @@ Please go through the [Contributions](https://github.com/ManrajGrover/SingleDivP
 | [United Kingdom](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/UK.html) | [jdhoek](https://github.com/jdhoek) | <img width="350" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/UK.png" /> |
 | [United States of America](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/USA.html) | [jdhoek](https://github.com/jdhoek) | <img width="350" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/USA.png" /> |
 | [Yemen](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Yemen.html) | [Death259](https://github.com/Death259) | <img width="350" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Yemen.png" /> |
+
+### Tools
+
+| Project Name | Your Name / Github Handle | Demo/Gif |
+| :---: | :---: | :---: |
+| [Box Breathing](https://github.com/ManrajGrover/SingleDivProject/blob/master/Tools/BoxBreathing.html) |  [gnclmorais](https://github.com/gnclmorais) | <img width="350" src="https://raw.githubusercontent.com/ManrajGrover/SingleDivProject/master/Assets/BoxBreathing.gif" /> |
 
 ## License
 [MIT](https://github.com/ManrajGrover/SingleDivProject/blob/master/LICENSE) © [Manraj Singh](https://github.com/ManrajGrover)
