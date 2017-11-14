@@ -1,7 +1,7 @@
 # SingleDivProject
 ![Single Div](https://img.shields.io/badge/Single%20Div-Yes-brightgreen.svg) ![CSS](https://img.shields.io/badge/CSS-Yes-brightgreen.svg)
 
-One `<div>`. Many possibilities.
+> ☝️ One `<div>`. Many possibilities.
 
 ## What is this?
 
