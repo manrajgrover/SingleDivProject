@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Melting Ice Cream | Loader</title>
+    <style>
+        html, body {
+            height: 100%;
+            background: skyblue;
+            margin: 0;
+            padding: 0;
+        }
+        #melting-icecream {
+            width: 0px;
+            height: 0px;
+            position: relative;
+            top: 40%;
+            left: 40%;
+            border-top: 15px solid transparent;
+            border-bottom: 15px solid transparent;
+            border-right: 50px solid orange;
+        }
+
+         #melting-icecream::before {
+            content: '';
+            display: block;
+            position: absolute;
+            left: 46px;
+            top: -10px;
+            width: 31px;
+            height: 20px;
+            border-top-left-radius: 20px;
+            border-top-right-radius: 20px;
+            transform: rotate(90deg);
+            background: #ffffff;
+        }
+        #melting-icecream::after {
+            content: '';
+            display: block;
+            position: absolute;
+            background: #ffffff;
+            left: 69px;
+            top: 5px;
+            width: 8px;
+            height: 8px;
+            border-radius: 100%;
+            border-top-left-radius: 6px;
+            border-top-right-radius: 2px;
+            transform: rotate(-45deg);
+            animation: melt 0.8s infinite linear;
+        }
+
+        @keyframes melt {
+            0% {
+                opacity: 0;
+                transform: translateY(0) rotate(-45deg);
+            }
+
+            100% {
+                opacity: 1;
+                transform: translateY(60px) rotate(-45deg);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="melting-icecream"></div>
+</body>
+</html>
