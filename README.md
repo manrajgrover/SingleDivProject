@@ -49,6 +49,8 @@ Please go through the [Contributions](https://github.com/ManrajGrover/SingleDivP
 | [Play Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Play%20Loader.html) | [ManrajGrover](https://github.com/ManrajGrover) | <img width="350" src="https://raw.githubusercontent.com/ManrajGrover/SingleDivProject/master/Assets/Play%20Loader.gif" /> |
 | [Simple Spinner](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Simple%20Spinner.html) |  [ManrajGrover](https://github.com/ManrajGrover) | <img width="350" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Simple%20Spinner.gif" /> |
 | [Simple Text Loader](https://github.com/ManrajGrover/SingleDivProject/blob/master/Loaders/Simple%20Text%20Loader.html) |  [ManrajGrover](https://github.com/ManrajGrover) | <img width="350" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Simple%20Text%20Loader.gif" /> |
+| [Melting Ice Cream Loader](https://github.com/taranvohra/SingleDivProject/blob/master/Loaders/Melting%20Ice%20Cream.html) |  [TaranVohra](https://github.com/taranvohra) | <img width="350" src="https://github.com/taranvohra/SingleDivProject/blob/master/Assets/Melting%20Ice%20Cream.gif" /> |
+
 
 ### Flags
 
