@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Magnifying Glass | Designs</title>
+<style>
+#magnifying-glass
+{
+ font-size: 20em; 
+ display: inline-block;
+ width: 0.4em;
+ height: 0.4em;
+ left:0.5em;
+ top:0.25em;
+ border: 0.1em solid black;
+ position: relative;
+ border-radius: 0.35em;
+}
+
+#magnifying-glass::after
+{
+ content: "";
+ display: inline-block;
+ position: absolute;
+ right: -0.25em;
+ bottom: -0.1em;
+ background: black;
+ border-radius:20px;
+ width: 0.30em;
+ height: 0.10em;
+ -webkit-transform: rotate(40deg);
+    -moz-transform: rotate(40deg);
+     -ms-transform: rotate(40deg);
+      -o-transform: rotate(40deg);
+}
+</style>
+</head>
+<body>
+<div id="magnifying-glass"></div>
+</body>
+</html>
