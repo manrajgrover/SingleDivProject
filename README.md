@@ -30,8 +30,7 @@ Please go through the [Contributions](https://github.com/ManrajGrover/SingleDivP
 | :---: | :---: | :---: |
 | [Battery](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Battery.html) | [ManrajGrover](https://github.com/ManrajGrover) | <img width="400" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Battery.gif" /> |
 | [Hamburger Menu](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Hamburger.html) | [ManrajGrover](https://github.com/ManrajGrover) | <img width="400" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Hamburger.png" /> |
-| [Magnifying Glass](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Magnifying%20Glass.html) | 
-[kamito98](https://github.com/kamito98) | <img width="400" src="https://github.com/manrajgrover/SingleDivProject/tree/master/Assets/Magnifying_Glass.png" /> |
+| [Magnifying Glass](https://github.com/kamito98/SingleDivProject/blob/master/Designs/magnifying%20glass.html)  | [kamito98](https://github.com/kamito98) | <img width="400" src="https://github.com/kamito98/SingleDivProject/blob/master/Assets/Magnifying_Glass.PNG" /> |
 | [New Instagram Logo](https://github.com/ManrajGrover/SingleDivProject/blob/master/Designs/Instagram%20New%20Logo.html) | [ManrajGrover](https://github.com/ManrajGrover) | <img width="400" src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/instagram.jpg" /> |
 
 ### Loaders
