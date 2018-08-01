@@ -12,7 +12,7 @@
 ## Checklist
 
 - [ ] Your branch is up-to-date with the base branch
-- [ ] You've read the [Contributions](https://github.com/ManrajGrover/SingleDivProject/blob/master/.github/CONTRIBUTING.md) guidelines.
+- [ ] You've read the [Contributions](https://github.com/manrajgrover/SingleDivProject/blob/master/.github/CONTRIBUTING.md) guidelines.
 
 ## Related Issues and Discussions
 <!-- Link related issues here to automatically close them when PR is merged -->
