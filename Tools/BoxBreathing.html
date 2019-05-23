@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Box Breathing</title>
+  <style>
+    .box-breathing {
+      width: 50vmin;
+      height: 50vmin;
+      margin-top: -25vmin;
+      margin-left: -25vmin;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      border-radius: 50%;
+      border: 5px solid #708090;
+    }
+    .box-breathing::after {
+      width: 44vmin;
+      height: 44vmin;
+      margin-top: -22vmin;
+      margin-left: -22vmin;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      border-radius: 50%;
+      content: '';
+      background: lightskyblue;
+      animation: box-breath 16s infinite;
+    }
+
+    @-moz-keyframes box-breath {
+      0%, 75%, 100% { transform: scale(0.3); }
+      25%, 50%      { transform: scale(1);   }
+    }
+    @-webkit-keyframes box-breath {
+      0%, 75%, 100% { transform: scale(0.3); }
+      25%, 50%      { transform: scale(1);   }
+    }
+    @-o-keyframes box-breath {
+      0%, 75%, 100% { transform: scale(0.3); }
+      25%, 50%      { transform: scale(1);   }
+    }
+    @keyframes box-breath {
+      0%, 75%, 100% { transform: scale(0.3); }
+      25%, 50%      { transform: scale(1);   }
+    }
+  </style>
+</head>
+<body>
+  <div style="text-align: center">
+    Box Breathing meditation: breath in, hold, breath out, hold.
+  </div>
+
+  <div class="box-breathing"></div>
+</body>
+</html>

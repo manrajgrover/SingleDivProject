@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Box Loader | Loaders</title>
+   </head>
+    <style>
+      body{
+        background-color: #0f80d2; 
+      }
+      .box-loader{
+        position: relative;
+        margin: 0 auto;
+        margin-top: 10%;
+        width: 300px;
+        border: 10px solid white;
+        height: 300px;
+        border-radius: 10px;
+      }
+      .box-loader:before{
+        content: '';
+        position: absolute;
+        top: 6px;
+        left: 6px;
+        height: 200px;
+        background-color: white;
+        border-radius: 5px;
+        animation: full 3s ease-in-out infinite reverse;
+        }
+      .box-loader:after{
+        content: '';
+        position: absolute;
+        
+      }
+       @keyframes full{
+        0%{
+          left:2%;
+          top:2%;
+          width: 48%;
+          height:48%;
+         }
+        12.5%{
+          left:2%;
+          top:2%;
+          width: 48%;
+          height:96%;
+        }
+        25%{
+          left:2%;
+          top:50%;
+          width: 48%;
+          height:48%;
+         }
+         37.5%{
+          left:2%;
+          top:50%;
+          width: 96%;
+          height: 48%; 
+         }
+        50%{
+          left:50%;
+          top:50%;
+          width: 48%;
+          height: 48%;
+         }
+         62.5%{
+          left:50%;
+          top:2%;
+          width: 48%;
+          height: 96%;
+         }
+        75%{
+          left:50%;
+          top:2%;
+          width: 48%;
+          height: 48%;
+          }
+         87.5%{
+          width: 96%;
+          height:48%;
+          left:2%;
+          top:2%;
+         }
+        100%{
+          width: 48%;
+          height:48%;
+          left:2%;
+          top:2%;
+          }
+
+    </style>
+  </head>
+  <body>
+    <div class="box-loader"></div>
+  </body>
+</html>

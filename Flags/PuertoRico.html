@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Puerto Rico | Flags</title>
+    <meta charset="utf-8" />
+    <style>
+        body {
+            padding: 20px;
+        }
+        #puerto-rico {
+            width: 1235px;
+            height: 650px;
+            background: repeating-linear-gradient(180deg, #ce1126, #ce1126 150px, white 80px, white 250px);
+            box-shadow: 10px 10px 15px 0px #bbbbbb;
+            position: relative;
+            overflow: hidden;
+        }
+        #puerto-rico::before {
+            position: absolute;
+            content: " ";
+            width: 608px;
+            height:608px;
+            left: -5px;
+            top: 20px;
+            background: #0038a8;
+            transform: translate(-50%) rotate(-45deg) skew(15deg,15deg);
+            box-shadow: 0 0 0 13px #0038a8;
+        }
+        #puerto-rico::after {
+        /*
+           Unicode, not magic. Stars are separated by a no-break space (U+00A0) to
+           prevent the sets of six and five stars from being split up over lines.
+           Regular spaces indicate where line breaks should occur.
+           The star is U+2605 BLACK STAR, so this approach is almost cheating.
+         */
+            position: absolute;
+            content: "★";
+            font-size: 280px;
+            font-family: 'DejaVu Sans', sans-serif;
+            line-height: 1%;
+            color: white;
+            left: 60px;
+            top: 50%;
+          }
+    </style>
+</head>
+<body>
+    <div id="puerto-rico"></div>
+</body>
+</html>

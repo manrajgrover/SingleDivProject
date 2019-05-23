@@ -1,0 +1,93 @@
+<html>
+
+<head>
+  <title>Awesome Dots | Loaders</title>
+  <style>
+    #iron-factory,
+    #iron-factory:after,
+    #iron-factory:before {
+      width: 25px;
+      height: 25px;
+      background-color: white;
+      border-radius: 5px;
+      animation-duration: 2s;
+      animation-iteration-count: infinite;
+      position: absolute;
+    }
+
+    #iron-factory {
+      left: 50%;
+      top: 50%;
+      animation-name: move;
+    }
+
+    #iron-factory:after {
+      left: 40px;
+      content: "";
+      animation-timing-function: ease-out;
+      animation-name: fade-out;
+    }
+
+    #iron-factory:before {
+      right: 40px;
+      content: "";
+      animation-timing-function: ease-in;
+      animation-name: drop-in;
+    }
+
+    @keyframes drop-in {
+      0% {
+        transform: translateY(-100%);
+        background-color: white;
+      }
+      25% {
+        transform: translateY(0px);
+        background-color: #ef4f11;
+      }
+      100% {
+        transform: translateY(0px);
+        background-color: #1d1f20;
+      }
+    }
+
+    @keyframes fade-out {
+      0% {
+        transform: translateY(0px);
+        background-color: #1d1f20;
+      }
+      40% {
+        transform: translateY(0px);
+        background-color: #1d1f20;
+      }
+      50% {
+        transform: translateY(0px);
+        background-color: white;
+      }
+      100% {
+        transform: translateY(0px);
+        background-color: white;
+      }
+    }
+
+    @keyframes move {
+      0% {
+        background-color: #1d1f20;
+        transform: translateX(0px);
+      }
+      50% {
+        background-color: #1d1f20;
+        transform: translateX(0px);
+      }
+      100% {
+        background-color: #1d1f20;
+        transform: translateX(40px);
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div id="iron-factory"></div>
+</body>
+
+</html>

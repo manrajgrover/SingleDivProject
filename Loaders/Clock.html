@@ -1,0 +1,64 @@
+<html>
+  <head>
+    <title>Clock | Loaders</title>
+    <style>
+      *, *:before, *:after {
+        box-sizing: border-box;
+      }
+
+      body {
+        background: hsla(170, 50%, 45%, 1);
+      }
+
+      #clock {
+        width: 100px;
+        height: 100px;
+        border: 5px solid hsla(170, 50%, 75%, 1);
+        border-radius: 50%;
+        position: relative;
+        margin: 100px auto;
+        background: radial-gradient(circle at center, hsla(170, 50%, 75%, 1) 5px, transparent 5px);
+      }
+
+      #clock:before,
+      #clock:after {
+        content: '';
+        display: block;
+        position: absolute;
+        left: calc(50% - 3px);
+        bottom: calc(50%);
+        border-radius: 4px;
+        background: hsla(170, 50%, 75%, 1);
+        transform-origin: bottom;
+        animation-name: rotate;
+        animation-iteration-count: infinite; 
+        animation-timing-function: linear;
+      }
+
+      #clock:before {
+        height: 26px;
+        width: 6px;
+        animation-duration: 8s;
+      }
+
+      #clock:after {
+        height: 40px;
+        width: 6px;
+        animation-duration: 4s;
+      }
+
+      @keyframes rotate {
+        from {
+          transform: rotate(0deg);
+        }
+
+        to {
+          transform: rotate(359deg)
+        }
+      } 
+    </style>
+  </head>
+  <body>
+    <div id="clock"></div>
+  </body>
+</html>
