@@ -113,5 +113,14 @@ Please go through the [Contributions](https://github.com/manrajgrover/SingleDivP
 | :---: | :---: | :---: |
 | [Box Breathing](https://github.com/manrajgrover/SingleDivProject/blob/master/Tools/BoxBreathing.html) |  [gnclmorais](https://github.com/gnclmorais) | <img width="350" src="https://raw.githubusercontent.com/manrajgrover/SingleDivProject/master/Assets/BoxBreathing.gif" /> |
 
+### Animate
+
+| Project Name | Your Name / Github Handle | Demo/Gif |
+| :---: | :---: | :---: |
+| [Zoom In](https://github.com/ManrajGrover/SingleDivProject/blob/master/Animate/zoomIn.html) | [netham91](https://github.com/netham91) | ![Zoom In](https://raw.githubusercontent.com/ManrajGrover/SingleDivProject/master/Assets/zoomIn.gif) |
+| [Zoom Out](https://github.com/ManrajGrover/SingleDivProject/blob/master/Animate/zoomOut.html) | [netham91](https://github.com/netham91) | ![Zoom In](https://raw.githubusercontent.com/ManrajGrover/SingleDivProject/master/Assets/zoomOut.gif) |
+| [Rotate 360](https://github.com/ManrajGrover/SingleDivProject/blob/master/Animate/rotate360.html) | [netham91](https://github.com/netham91) | ![Zoom In](https://raw.githubusercontent.com/ManrajGrover/SingleDivProject/master/Assets/rotate360.gif) |
+| [Beating Heart (ASCII)](https://github.com/ManrajGrover/SingleDivProject/blob/master/Animate/beatingHeart.html) | [netham91](https://github.com/netham91) | ![Zoom In](https://raw.githubusercontent.com/ManrajGrover/SingleDivProject/master/Assets/beatingHeart.gif) |
+
 ## License
 [MIT](https://github.com/manrajgrover/SingleDivProject/blob/master/LICENSE) © [Manraj Singh](https://github.com/manrajgrover)

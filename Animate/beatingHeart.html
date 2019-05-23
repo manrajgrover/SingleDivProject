@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> beatingHeart | Animate</title>
+    <style>
+
+         
+
+        #beatingHeart {
+            margin-top: 20%;
+            margin-left: 20%;
+            width: 300px;
+            height: 200px;
+            position: relative;
+            text-align: center;
+            font-size: 60px;
+            color: red;
+           
+           
+            animation: beatingHeart 2s;
+            -webkit-animation-iteration-count: infinite;
+            animation-iteration-count: infinite;
+            animation-timing-function:linear;
+            animation-duration: 0.8s;
+        }
+
+        #beatingHeart::after {
+            content: "\2665";
+        }
+
+       
+       
+        @keyframes beatingHeart {
+              0% {
+                transform: scale(1);
+                opacity: 1;
+            }
+
+            
+            35% {
+                transform: scale(1.4);
+                opacity: 1;
+            }
+            
+            100% {
+                transform: scale(1);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div id="beatingHeart"></div>
+</body>
+
+</html>

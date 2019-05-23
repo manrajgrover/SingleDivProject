@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> zoomOut | Animate</title>
+    <style>
+        #zoomOut {
+            width: 100px;
+            height: 80px;
+            position: relative;
+            text-align: center;
+            color: grey;
+            animation: zoomOut 2s;
+            -webkit-animation-iteration-count: infinite;
+            animation-iteration-count: infinite;
+        }
+
+        #zoomOut::after {
+            content: "May the Source be with you" ;
+        }
+       
+        @keyframes zoomOut {
+            0% {
+                transform: scale(1.6);
+                opacity: 0.5;
+            }
+            50% {
+                transform: scale(1);
+                opacity: 1;
+            }
+            100% {
+                transform: scale(0.2);
+                opacity: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div id="zoomOut"></div>
+</body>
+
+</html>

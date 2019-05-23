@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> rotate360 | Animate</title>
+    <style>
+
+         
+
+        #rotate360 {
+            margin-top: 20%;
+            margin-left: 20%;
+            width: 300px;
+            height: 200px;
+            position: relative;
+            text-align: center;
+           
+           
+            animation: rotate360 2s;
+            -webkit-animation-iteration-count: infinite;
+            animation-iteration-count: infinite;
+            animation-timing-function:linear;
+            animation-duration: 8s;
+        }
+
+        #rotate360::after {
+            content: "Am I a tangent or tangents? Who am I?" ;
+        }
+
+       
+       
+        @keyframes rotate360 {
+            0% {
+                transform: rotate(0deg);
+                opacity: 1;
+            }
+            
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div id="rotate360"></div>
+</body>
+
+</html>
