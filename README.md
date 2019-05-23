@@ -52,7 +52,6 @@ Please go through the [Contributions](https://github.com/manrajgrover/SingleDivP
 | [Simple Text Loader](https://github.com/manrajgrover/SingleDivProject/blob/master/Loaders/Simple%20Text%20Loader.html) |  [manrajgrover](https://github.com/manrajgrover) | <img width="350" src="https://github.com/manrajgrover/SingleDivProject/blob/master/Assets/Simple%20Text%20Loader.gif" /> |
 | [Melting Ice Cream Loader](https://github.com/taranvohra/SingleDivProject/blob/master/Loaders/Melting%20Ice%20Cream.html) |  [TaranVohra](https://github.com/taranvohra) | <img width="350" src="https://github.com/taranvohra/SingleDivProject/blob/master/Assets/Melting%20Ice%20Cream.gif" /> |
 
-
 ### Flags
 
 | Project Name | Your Name / Github Handle | Demo |
@@ -93,6 +92,7 @@ Please go through the [Contributions](https://github.com/manrajgrover/SingleDivP
 | [Russia](https://github.com/manrajgrover/SingleDivProject/blob/master/Flags/Russia.html) | [ad222kr](https://github.com/ad222kr) | <img width="350" src="https://github.com/manrajgrover/SingleDivProject/blob/master/Assets/Russia.png" /> |
 | [Senegal](https://github.com/manrajgrover/SingleDivProject/blob/master/Flags/Senegal.html) | [Death259](https://github.com/Death259) | <img width="350" src="https://github.com/manrajgrover/SingleDivProject/blob/master/Assets/Senegal.png" /> |
 | [South Africa](https://github.com/manrajgrover/SingleDivProject/blob/master/Flags/South%20Africa.html) | [DHernandex](https://github.com/dhernandex) | <img width="350" src="https://github.com/manrajgrover/SingleDivProject/blob/master/Assets/South%20Africa.png" /> |
+| [Spain](https://github.com/ManrajGrover/SingleDivProject/blob/master/Flags/Spain.html) | [Josevill](https://github.com/josevill) | ![Spain](https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Spain.png) |
 | [Sierra Leone](https://github.com/manrajgrover/SingleDivProject/blob/master/Flags/SierraLeone.html) | [ts96](https://github.com/ts96) | <img width="350" src="https://github.com/manrajgrover/SingleDivProject/blob/master/Assets/SierraLeone.png" /> |
 | [Suriname](https://github.com/manrajgrover/SingleDivProject/blob/master/Flags/Suriname.html) | [adavis46](https://github.com/adavis46) | <img width="350" src="https://github.com/manrajgrover/SingleDivProject/blob/master/Assets/Suriname.png" /> |
 | [Sweden](https://github.com/manrajgrover/SingleDivProject/blob/master/Flags/Sweden.html) | [jacksarick](https://github.com/jacksarick) | <img width="350" src="https://github.com/manrajgrover/SingleDivProject/blob/master/Assets/Sweden.png" /> |
