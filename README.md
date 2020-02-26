@@ -32,6 +32,7 @@ Please go through the [Contributions](https://github.com/manrajgrover/SingleDivP
 | [Hamburger Menu](https://github.com/manrajgrover/SingleDivProject/blob/master/Designs/Hamburger.html) | [manrajgrover](https://github.com/manrajgrover) | <img width="400" src="https://github.com/manrajgrover/SingleDivProject/blob/master/Assets/Hamburger.png" /> |
 | [Magnifying Glass](https://github.com/manrajgrover/SingleDivProject/blob/master/Designs/Magnifying%20Glass.html)  | [kamito98](https://github.com/kamito98) | <img width="400" src="https://github.com/manrajgrover/SingleDivProject/blob/master/Assets/Magnifying Glass.png" /> |
 | [New Instagram Logo](https://github.com/manrajgrover/SingleDivProject/blob/master/Designs/Instagram%20New%20Logo.html) | [manrajgrover](https://github.com/manrajgrover) | <img width="400" src="https://github.com/manrajgrover/SingleDivProject/blob/master/Assets/instagram.jpg" /> |
+| [emoticon](https://github.com/manrajgrover/SingleDivProject/blob/master/Designs/emoticon.html) | [sankshitpandoh](https://github.com/sankshitpandoh) | <img width="400" src="https://github.com/manrajgrover/SingleDivProject/blob/master/Assets/emoticon.jpg" /> |
 
 ### Loaders
 
@@ -84,7 +85,7 @@ Please go through the [Contributions](https://github.com/manrajgrover/SingleDivP
 | [Ivory Coast](https://github.com/manrajgrover/SingleDivProject/blob/master/Flags/IvoryCoast.html) | [skeevey](https://github.com/skeevey) | <img width="350" src="https://github.com/manrajgrover/SingleDivProject/blob/master/Assets/IvoryCoast.png" /> |
 | [Japan](https://github.com/manrajgrover/SingleDivProject/blob/master/Flags/Japan.html) | [manrajgrover](https://github.com/manrajgrover) | <img width="350" src="https://github.com/manrajgrover/SingleDivProject/blob/master/Assets/Japan.png" /> |
 | [Laos](https://github.com/manrajgrover/SingleDivProject/blob/master/Flags/Laos.html) | [jamcgrath](https://github.com/jamcgrath) | <img width="350" src="https://github.com/manrajgrover/SingleDivProject/blob/master/Assets/Laos.png" /> |
-| [Latvia](https://github.com/manrajgrover/SingleDivProject/blob/master/Flags/Latvia.html) | [vasiljevs](https://github.com/vasiljevs) | <img width="350" src="https://github.com/manrajgrover/SingleDivProject/blob/master/Assets/Latvia.png" /> | 
+| [Latvia](https://github.com/manrajgrover/SingleDivProject/blob/master/Flags/Latvia.html) | [vasiljevs](https://github.com/vasiljevs) | <img width="350" src="https://github.com/manrajgrover/SingleDivProject/blob/master/Assets/Latvia.png" /> |
 | [Lithuania](https://github.com/manrajgrover/SingleDivProject/blob/master/Flags/Lithuania.html) | [fosron](https://github.com/fosron) | <img width="350" src="https://github.com/manrajgrover/SingleDivProject/blob/master/Assets/Lithuania.png" /> |
 | [Nigeria](https://github.com/manrajgrover/SingleDivProject/blob/master/Flags/Nigeria.html) | [skeevey](https://github.com/skeevey) | <img width="350" src="https://github.com/manrajgrover/SingleDivProject/blob/master/Assets/Nigeria.png" /> |
 | [Pakistan](https://github.com/manrajgrover/SingleDivProject/blob/master/Flags/pakistan.html) | [ObaidAshraf](https://github.com/ObaidAshraf) | <img width="350" src="https://github.com/manrajgrover/SingleDivProject/blob/master/Assets/Pakistan.png" /> |

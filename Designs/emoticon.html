@@ -1,0 +1,52 @@
+<html>
+<head>
+  <title>emoticon</title>
+  <style>
+    body{
+      background-color: #fff;
+      padding: 200px;
+    }
+    .emoticon{
+      height: 300px;
+      width:300px;
+      background-color: yellow;
+      border-radius:50%;
+      position: relative;
+      transition: transform 1s
+    }
+    .emoticon:before{
+      content: "";
+      position: absolute;
+      top: 30%;
+      left: 50%;
+      transform: translate(-50%,-50%);
+      height: 50px;
+      width: 50px;
+      box-shadow: 71px 0px 0px -1em
+      black,-62px 0px 0px -1em black,71px 0px 0px 0.1em white,-62px 0px 0px 0.1em
+      white;
+      border-radius: 50%;
+    }
+    .emoticon:after{
+      content: "";
+      position: absolute;
+      top: 70%;
+      left: 50%;
+      transform: translate(-50%,-50%);
+      height: 100px;
+      width: 100px;
+      border-radius: 50%;
+      box-shadow: inset 0px -20px 0px -10px;
+    }
+    .emoticon:hover{
+      transform: scale(1.5);
+
+    }
+
+  </style>
+  </head>
+  <body>
+    <div class="emoticon">
+      </div>
+    </body>
+</html>
