@@ -1,0 +1,44 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    .norway {
+      position: relative;
+      width: 200px;
+      height: 100px;
+      background-image: linear-gradient(to bottom, #C8102E 35%, white 35%, white 60%, #C8102E 60%);
+    }
+
+    .norway::before {
+      content: '';
+      position: absolute;
+      background: #003087;
+      display: block;
+      width: 200px;
+      height: 15px;
+      top: 40px;
+      z-index: 2;
+    }
+
+    .norway::after {
+      content: '';
+      position: absolute;
+      background: #003087;
+      background-image: linear-gradient(to right, white 20%, #003087 20%, #003087 80%, white 80%);
+      display: block;
+      width: 25px;
+      height: 100px;
+      left: 40px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="norway"></div>
+  </br>
+</body>
+
+</html>
